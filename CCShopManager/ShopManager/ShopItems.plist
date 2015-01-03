@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>3</key>
+	<dict>
+		<key>KIDKEY</key>
+		<string></string>
+		<key>KNAMEKEY</key>
+		<string>Name 3</string>
+		<key>KIMAGEKEY</key>
+		<string>BlueBox.png</string>
+		<key>KUNLOCKDESCRIPTIONKEY</key>
+		<string>KUNLOCKDESCRIPTIONKEY</string>
+		<key>KLOCKDESCRIPTIONKEY</key>
+		<string>Item Number 3</string>
+	</dict>
+	<key>2</key>
+	<dict>
+		<key>KIDKEY</key>
+		<string></string>
+		<key>KNAMEKEY</key>
+		<string>Name 2</string>
+		<key>KIMAGEKEY</key>
+		<string>SmileyFace.png</string>
+		<key>KUNLOCKDESCRIPTIONKEY</key>
+		<string>KUNLOCKDESCRIPTIONKEY</string>
+		<key>KLOCKDESCRIPTIONKEY</key>
+		<string>Item Number 2</string>
+	</dict>
+	<key>1</key>
+	<dict>
+		<key>KIDKEY</key>
+		<string></string>
+		<key>KNAMEKEY</key>
+		<string>Name 1</string>
+		<key>KIMAGEKEY</key>
+		<string>idle_0.png</string>
+		<key>KUNLOCKDESCRIPTIONKEY</key>
+		<string>KUNLOCKDESCRIPTIONKEY</string>
+		<key>KLOCKDESCRIPTIONKEY</key>
+		<string>Item Number 1</string>
+	</dict>
+</dict>
+</plist>
